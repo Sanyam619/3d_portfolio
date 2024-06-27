@@ -45,7 +45,7 @@ const Navbar = () => {
           <img
             src={logo}
             alt="logo"
-            className=" w-9 h-9 object-cover bg-white"
+            className=" w-12 h-12 object-center  rounded-full p-2 bg-black"
           />
           <p className="text-white text-[18px] font-bold cursor-pointer flex ">
             Sanyam &nbsp;
